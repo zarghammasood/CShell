@@ -1,0 +1,3 @@
+First open terminal in files folder.
+Second type "make" in terminal.
+Third type "./gbsh" for executing.

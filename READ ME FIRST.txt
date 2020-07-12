@@ -1,0 +1,20 @@
+Part 1:
+.Prompt: DONE
+.exit : DONE
+.pwd : DONE
+.clear: DONE
+.token:DONE
+
+
+Part 2:
+1)ls = DONE
+2)cd = DONE
+3)Environment = DONE
+4)d part =DONE
+5)f part DONE
+5)e,g part = NOT DONE
+
+Bonus Part :
+DONE
+
+
